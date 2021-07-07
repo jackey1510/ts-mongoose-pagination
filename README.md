@@ -23,7 +23,7 @@ yarn add ts-mongoose-pagination-fix
 Add plugin for a mongoose schema to inject a `paginate` method for pagination:
 
 ```ts
-import { mongoosePagination } from "ts-mongoose-pagination";
+import { mongoosePagination } from "ts-mongoose-pagination-fix";
 
 const userSchema = new Schema({
   username: String,

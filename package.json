@@ -1,7 +1,7 @@
 {
-  "name": "ts-mongoose-pagination",
+  "name": "ts-mongoose-pagination-fix",
   "description": "Typescript pagination plugin for mongoose",
-  "version": "1.1.2",
+  "version": "1.0.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "author": "Aaron Chengrui Yang",
@@ -39,14 +39,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ycraaron/ts-mongoose-pagination.git"
+    "url": "git+ssh://git@github.com/jackey1510/ts-mongoose-pagination"
   },
   "peerDependencies": {
     "@types/mongoose": "5.x",
     "mongoose": "5.x"
   },
   "bugs": {
-    "url": "https://github.com/ycraaron/ts-mongoose-pagination/issues"
+    "url": "https://github.com/jackey1510/ts-mongoose-pagination/issues"
   },
-  "homepage": "https://github.com/ycraaron/ts-mongoose-pagination#readme"
+  "homepage": "https://github.com/jackey1510/ts-mongoose-pagination#readme"
 }
