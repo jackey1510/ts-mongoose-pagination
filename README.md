@@ -1,4 +1,6 @@
-# ts-mongoose-pagination
+# ts-mongoose-pagination-fix
+
+## This is a fork from https://github.com/ycraaron/ts-mongoose-pagination
 
 [![npm version](https://img.shields.io/npm/v/ts-mongoose-pagination.svg)](https://www.npmjs.com/package/ts-mongoose-pagination.svg)
 [![Dependency Status](https://david-dm.org/ycraaron/ts-mongoose-pagination.svg)](https://david-dm.org/ycraaron/ts-mongoose-pagination.svg)
@@ -14,13 +16,13 @@ Typescript pagination plugin for [Mongoose](http://mongoosejs.com)
 ## Installation
 
 ```sh
-npm install ts-mongoose-pagination
+npm install ts-mongoose-pagination-fix
 ```
 
 or
 
 ```sh
-yarn add ts-mongoose-pagination
+yarn add ts-mongoose-pagination-fix
 ```
 
 ## Usage
